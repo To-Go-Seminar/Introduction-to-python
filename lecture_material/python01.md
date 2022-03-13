@@ -3,6 +3,7 @@ marp: true
 paginate: true
 headingDivider: 1
 theme: togo_template
+class: content
 header: Pythonで始めるプログラミング入門
 footer: by **Kazushi**
 ---

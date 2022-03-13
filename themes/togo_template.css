@@ -5,8 +5,12 @@
 section {
     background-color: #f9fcff;
 }
-section h1 {
+section.content h1 {
   padding: 0.1em 0.5em;
   border-left: 10px solid #7db4e6 ;
 
+}
+section.lead h1{
+  border-bottom: 5px solid #7db4e6;
+  padding: 0.5em 0em
 }
