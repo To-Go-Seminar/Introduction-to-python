@@ -1,0 +1,12 @@
+/* This is the template we use */
+
+@import 'gaia';
+
+section {
+    background-color: #f9fcff;
+}
+section h1 {
+  padding: 0.25em 0.5em;
+  border-left: 7px solid #7db4e6 ;
+
+}
