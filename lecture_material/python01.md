@@ -2,18 +2,22 @@
 marp: true
 paginate: true
 headingDivider: 1
-theme: gaia
+theme: togo_template
 header: Pythonで始めるプログラミング入門
 footer: by **Kazushi**
 ---
 
 # Pythonで始めるプログラミング入門
 <!--
-_class: top
+_class: lead
+_paginate: false
+_header: ""
+_footer: ""
 -->
 ## ~第1回 プログラミング概論~
 
 # プログラムは何をするのか
+
 任意の入力データを受け取ってデータを処理した結果を返す
 
 ![w:800](imgs/part1/program.drawio.png)
@@ -59,7 +63,7 @@ $ python3 Hello.py
 # Pythonの使い方
 ## 方法3
 拡張子が.ipynbのファイルはブロックごとに実行できる。
-![bg right:52% contain](imgs/part1/ipynb.png)
+![bg right:46% contain](imgs/part1/ipynb.png)
 
 # Hello World
 まずはここから！
